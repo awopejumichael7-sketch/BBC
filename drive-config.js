@@ -12,8 +12,8 @@
    ========================================================================== */
 
 // ---- REPLACE WITH YOUR OWN GOOGLE CLOUD CREDENTIALS ------------------------
-export const GOOGLE_CLIENT_ID = "YOUR_GOOGLE_OAUTH_CLIENT_ID.apps.googleusercontent.com";
-export const GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY";
+export const GOOGLE_CLIENT_ID = "754622637515-jrfmg6a285phf76p7kv2bj10lactqf1h.apps.googleusercontent.com";
+export const GOOGLE_API_KEY = "AIzaSyDSKgFYCDz9EhTJ4dfGWwPnf4JwHRQAiE8";
 // -----------------------------------------------------------------------
 
 // "drive.file" is the narrowest scope that still lets the app create files
